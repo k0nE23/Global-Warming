@@ -1,0 +1,77 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+   background-image:url("https://cdn.vox-cdn.com/thumbor/MyYhhoeipSVktSg90vI6m5BxTE4=/169x0:5044x3656/920x613/filters:focal(169x0:5044x3656):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/51170465/burning-earth.0.jpg");
+    background-position:center;
+    background-position-y:9px ;
+    color: #c9d3eb;
+    padding: 128px 13.5px;
+    font-size: 25px;
+}
+
+header {
+  font-family: Lucida Bright;
+}
+
+body {
+  font-family: Lucida Bright;
+  background-color:#d5dae7;
+}
+
+h2 {
+   font-family: Lucida Bright;
+   color:#ced8f0;
+   font-size: 21.3px;
+   border: 2px solid #070710;
+   background-color: #0e1732;
+   padding: 15.5px 5px
+   
+}
+
+p {
+   font-family: Lucida Bright;
+}
+
+.forest{
+  font-size: 15px;
+  align-content:flex-start;
+}
+
+.transport{
+  font-size: 15px;
+}
+
+.power{
+  font-size:15px;
+}
+
+a{
+  color:#0e1732;
+}
+
+.img1{
+  border: 5px solid;
+}
+
+.img2{
+  border: 5px solid;
+}
+
+.img3{
+  border: 5px solid;
+}
+
+.img1a{
+  display:flex;
+  justify-content: flex-start;
+}
+
+.img2a{
+  display:flex;
+  justify-content: flex-start;
+}
+
+.img3a{
+  display:flex;
+  justify-content: flex-start;
+}
